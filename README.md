@@ -1,3 +1,3 @@
 # hello-world
-Hello CS nerds,
+Hello!
 I'm a Bio major.
