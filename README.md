@@ -1,2 +1,3 @@
 # hello-world
-midterm2 project
+Hello!
+I'm a Bio major.
