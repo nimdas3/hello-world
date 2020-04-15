@@ -1,3 +1,3 @@
 # hello-world
-midterm2 project
+Hello CS nerds,
 I'm a Bio major.
